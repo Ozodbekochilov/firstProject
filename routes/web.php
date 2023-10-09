@@ -22,9 +22,6 @@ Route::post('/save_patient', function (Request $req) {
     ]);
 
     return back();
-    return back();
-    return back();
-    return back();
 });
 
 
